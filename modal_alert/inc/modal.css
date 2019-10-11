@@ -1,0 +1,11 @@
+.selectBox{
+	display: none;
+}
+
+.selectBox option {
+	border-bottom: 1px solid #dfdfdf;
+}
+
+.selectBox option:last-child {
+	border-width: 0px;
+}
